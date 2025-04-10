@@ -1,0 +1,18 @@
+{
+	"apiVersion": 3,
+	"name": "simpli/hello-world",
+	"title": "Hello World",
+	"category": "widgets",
+	"description": "Block Gutenberg to display a simple message.",
+	"supports": {
+		"html": false
+	},
+	"attributes": {
+		"content": {
+		  	"type": "string",
+		  	"default": "Hello World"
+		}
+	},
+	"editorScript": "file:./index.js",
+	"style": "file:./style.scss"
+}
