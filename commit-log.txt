@@ -1,0 +1,62 @@
+/* Git bash log */
+
+$ git log --date-order
+commit 98775f09893b6071d79fdfe55c3ba45180a54f7c (HEAD -> interview/philippe-Lavocat)
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Thu Apr 10 13:30:34 2025 +0200
+
+    Fatal Error solved! Access function was too strict
+
+commit 09cf3b0444de5055afcc3956dd72ce7d9db17b57
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Thu Apr 10 13:14:20 2025 +0200
+
+    trying to work around the fatal widget error and clean the .bak files...
+
+commit c2298ea1dba710940bb8acf15a69c6665681e247
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Thu Apr 10 11:41:58 2025 +0200
+
+    Mission1 & Mission2 : Overall debug and code cleaning
+
+commit cc530d86b6ea53ca3ed9cebc2190a6f4ff322db7
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Thu Apr 10 09:48:36 2025 +0200
+
+    Mission 1: Restructured files to match the plugin structure
+
+commit 7c287b1e2b18620adb14cd999641cc46ed3e153a
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Wed Apr 9 18:06:42 2025 +0200
+
+    Mission 2 : Work in progress on index.js editable Css attributes
+
+commit 22c03c5d10f20f673c6a341432a299d074150697
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Wed Apr 9 17:50:16 2025 +0200
+
+    Mission 2 : Work in progress in edit.js => edit css block Gutenberg
+
+commit 274856e7482493419a9d20fcedae505eb86d81e0
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Wed Apr 9 17:31:37 2025 +0200
+
+    Mission 2 : Work in progress in index.js
+
+commit df4eb92dab19c73129eeef6d73635391dd6459a4
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Wed Apr 9 17:12:07 2025 +0200
+
+    Mission 2 : Work in progress, structure and link every elements
+
+commit 5ad924953287cc874712988cfce15a18c8a13a8e
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Wed Apr 9 16:51:14 2025 +0200
+
+    Mission 2 : Work in Progress, create a block Gutenberg !
+
+commit 2599b7b8b8ae6c83061bdcb9dc3d4c81926e0fe6
+Author: Philippe Lavocat <philippe.lavocat@live.fr>
+Date:   Wed Apr 9 11:11:36 2025 +0200
+
+    README.md editions for mission1

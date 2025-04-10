@@ -1,0 +1,29 @@
+<!-- Input data forml -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulaire de test</title>
+</head>
+<body>
+  <h1>Recherche par nom de ville & date</h1>
+
+  <form action="get_data_api.php" method="POST">
+    <!-- City name -->
+    <label for="city">City:</label>
+    <input type="text" id="city" name="city" required><br><br>
+
+    <!-- Date -->
+    <label for="date">Date (yyyy-mm-dd):</label>
+    <input type="date" id="date" name="date" required><br><br>
+    <br><br>
+
+    <!--  Postal Code (FR) -->
+<!--    For V2 :
+    <label for="postal">Code postal :</label>
+    <input type="text" id="postal" name="postal" placeholder="78000" pattern="^(0[1-9]|[1-8][0-9]|9[0-5])[0-9]{3}$" required><br><br>
+  -->
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
